@@ -37,6 +37,6 @@ See https://docs.google.com/document/d/1vMzY-NWaR75HM9YFOHCdOa1WXts_U0Dn-wg59kA6
 * Go back through 5 pages of ticks instead of 3.
 * Removed the stipulation that climbs must be in this calendar year.
 * Scores the top ten climbs instead of the top five.
-* modified "isSend" to remove the climb if note includes Follow or TR or Hung.
+* Modified "isSend" to remove the climb if note includes Follow or TR or Hung.
 
 
