@@ -640,18 +640,7 @@ this.$ = this.jQuery = jQuery.noConflict(true);
             if (grade.length < 4) {
                 // its less than 3 char and has '5.' in it, must be true
                 return true
-            } else if (grade.includes("5.10")) {
-                if (grade.includes("d")) {
-                    return false
-                } else if (grade.includes("c")) {
-                    return false
-                } else if (grade.includes("b")) {
-                    return false
-
-                } else {
-                    return true
-                }
-            }
+            } 
         }
         return false;
     }
