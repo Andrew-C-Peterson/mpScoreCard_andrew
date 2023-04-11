@@ -1,7 +1,7 @@
 # mpScoreCard
 MountainProjectScoreCard is a tampermonkey script which adds 8a.nu type scores to users on mountainproject.com
 
-This is my version of the scorecard. I made some minor changes to the orginal version at: https://github.com/aawait1234/mpScoreCard
+This is my version of the scorecard. I made some changes to Aaron's script to change the scoring scheme and fix some bugs.  Orginal version at: https://github.com/aawait1234/mpScoreCard
 
 # Installation
 See https://docs.google.com/document/d/1vMzY-NWaR75HM9YFOHCdOa1WXts_U0Dn-wg59kA6WB4/edit?usp=sharing
